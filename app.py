@@ -9,10 +9,8 @@ import os
 # ====================================================================
 # FILE PATHS
 # ====================================================================
-EVENTS_FILE_PATH = r"D:\pass net\EventData.csv"
-PLAYERS_FILE_PATH = r"D:\pass net\PlayerData.csv"
-# ====================================================================
-# STREAMLIT APP
+EVENTS_FILE_PATH = "data/EventData.csv"   # المسار النسبي الجديد
+PLAYERS_FILE_PATH = "data/PlayerData.csv" # المسار النسبي الجديد
 # ====================================================================
 # ... بقية الكود كما هو ...
 st.set_page_config(page_title="Football Pass Dashboard", layout="wide")

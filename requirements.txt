@@ -1,0 +1,6 @@
+streamlit
+pandas
+numpy
+mplsoccer==1.5.1  
+matplotlib
+unidecode
